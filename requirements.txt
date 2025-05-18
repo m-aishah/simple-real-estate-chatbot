@@ -1,0 +1,5 @@
+Flask 
+scikit-learn 
+pyngrok
+requests
+python-dotenv
